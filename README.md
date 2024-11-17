@@ -1,2 +1,2 @@
 # icoderbyparamveer
-icoder is a coding blog made by using html and boostrap
+Icoder is a practice website made for the purpose of learning html,css and bootstrap
